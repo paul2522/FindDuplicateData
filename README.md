@@ -10,12 +10,12 @@ Find duplicate data in mesh by matching vertex
 * Margin of error(if input minus value, program exit)
 
 ## Output
-* Output 1
+* Output 1(vertex_nv'number'.txt)
     * Margin of Error
     * number of duplicate pair
     * number of duplicate vertex
     * list of duplicate vertex and index
-* Ouput 2
+* Ouput 2(out_nv'number'.txt)
     * Maring of Error
     * number of duplicate pair
     * number of duplicate vertex
